@@ -77,3 +77,6 @@ nbdist/
 */dist/
 */nbdist/
 */.nb-gradle/
+
+.idea
+.gradle
